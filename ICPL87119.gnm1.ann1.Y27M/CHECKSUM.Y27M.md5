@@ -1,0 +1,17 @@
+cb3a4489adfe501446fb42363fb20dd2 MANIFEST.Y27M.correspondence.yml
+b71f1845577df97a020d9f66cfbb35cc MANIFEST.Y27M.descriptions.yml
+6fd6b8de480e5a592bf370384bf6cf88 README.Y27M.yml
+b8ad63e7c848ab51762f1f7010237f2f cajca.ICPL87119.gnm1.ann1.Y27M.TE.gff.gz
+75da0c341c099850e0f6ac75c27f4501 cajca.ICPL87119.gnm1.ann1.Y27M.filterTE.gff.gz
+42593de2a5d0b9469ed9615f28653af1 cajca.ICPL87119.gnm1.ann1.Y27M.gene_filterTE.fna.gz
+6b1b776a600978306819666615fac900 cajca.ICPL87119.gnm1.ann1.Y27M.gene_main.fna.gz
+dd49516b23cf2ac823fde24fc9976b50 cajca.ICPL87119.gnm1.ann1.Y27M.gene_models_main.gff3.gz
+ab7421c295f4c4a5048c93b0b9b68c02 cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_KEGG.txt.gz
+164f9d6c8166fcf9925a786d42c2ad05 cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_Trembl.txt.gz
+5cc935fe6745c8b68630fa3f2a810942 cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_miRNA.gff.gz
+afe1072dc71074cf3e6deeb9264e225e cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_rRNA.gff.gz
+55bbe9efcd4988c4a0c859adbd88721a cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_snRNA.gff.gz
+59ba5fd6a71d4abbb9dad0bbe1979288 cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_tRNA.gff.gz
+1cfaeaef70d0951e877fb9b755b5e9a5 cajca.ICPL87119.gnm1.ann1.Y27M.protein_filterTE.faa.gz
+feccc4e570cc0f1ee1bbbbd30c8db157 cajca.ICPL87119.gnm1.ann1.Y27M.protein_main.faa.gz
+49edaa7007273994ddfea935d6ee2617 cajca.ICPL87119.gnm1.ann1.Y27M.repeat_models.gff.gz
