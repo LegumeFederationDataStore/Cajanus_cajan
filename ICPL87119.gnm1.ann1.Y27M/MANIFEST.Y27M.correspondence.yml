@@ -1,15 +1,15 @@
-  cajca.ICPL87119.gnm1.ann1.Y27M.gene_filterTE.fna.gz: Pigeonpea.cds.filterTE.cds.gz
-  cajca.ICPL87119.gnm1.ann1.Y27M.TE.gff.gz: Pigeonpea.gff.TE.gff.gz
-  cajca.ICPL87119.gnm1.ann1.Y27M.filterTE.gff.gz: Pigeonpea.gff.filterTE.gff.gz
-  cajca.ICPL87119.gnm1.ann1.Y27M.protein_filterTE.faa.gz: Pigeonpea.pep.filterTE.pep.gz
-  cajca.ICPL87119.gnm1.ann1.Y27M.gene_main.fna.gz: Pigeonpea_gene.cds.gz
-  cajca.ICPL87119.gnm1.ann1.Y27M.protein_main.faa.gz: Pigeonpea_gene.pep.gz
-  cajca.ICPL87119.gnm1.ann1.Y27M.miRNA.gff.gz: Pigeonpea_miRNA.gff.gz
-  cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_KEGG.txt.gz: Pigeonpea_pep.kegg.blast.tab.best.gz
-  cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_Swissprot.txt.gz: Pigeonpea_pep.swissprot.blast.tab.best.gz
-  cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_Trembl.txt.gz: Pigeonpea_pep.trembl.blast.tab.best.gz
-  cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_rRNA.gff.gz: Pigeonpea_rRNA.gff.gz
-  cajca.ICPL87119.gnm1.ann1.Y27M.repeat_models.gff.gz: Pigeonpea_repeat.gff.gz
-  cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_snRNA.gff.gz: Pigeonpea_snRNA.gff.gz
-  cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_tRNA.gff.gz: Pigeonpea_tRNA.gff.gz
+cajca.ICPL87119.gnm1.ann1.Y27M.gene_filterTE.fna.gz: Pigeonpea.cds.filterTE.cds.gz
+cajca.ICPL87119.gnm1.ann1.Y27M.TE.gff.gz: Pigeonpea.gff.TE.gff.gz
+cajca.ICPL87119.gnm1.ann1.Y27M.filterTE.gff.gz: Pigeonpea.gff.filterTE.gff.gz
+cajca.ICPL87119.gnm1.ann1.Y27M.protein_filterTE.faa.gz: Pigeonpea.pep.filterTE.pep.gz
+cajca.ICPL87119.gnm1.ann1.Y27M.gene_main.fna.gz: Pigeonpea_gene.cds.gz
+cajca.ICPL87119.gnm1.ann1.Y27M.protein_main.faa.gz: Pigeonpea_gene.pep.gz
+cajca.ICPL87119.gnm1.ann1.Y27M.miRNA.gff.gz: Pigeonpea_miRNA.gff.gz
+cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_KEGG.txt.gz: Pigeonpea_pep.kegg.blast.tab.best.gz
+cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_Swissprot.txt.gz: Pigeonpea_pep.swissprot.blast.tab.best.gz
+cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_Trembl.txt.gz: Pigeonpea_pep.trembl.blast.tab.best.gz
+cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_rRNA.gff.gz: Pigeonpea_rRNA.gff.gz
+cajca.ICPL87119.gnm1.ann1.Y27M.repeat_models.gff.gz: Pigeonpea_repeat.gff.gz
+cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_snRNA.gff.gz: Pigeonpea_snRNA.gff.gz
+cajca.ICPL87119.gnm1.ann1.Y27M.info_annot_tRNA.gff.gz: Pigeonpea_tRNA.gff.gz
 cajca.ICPL87119.gnm1.ann1.Y27M.gene_models_main.gff3.gz
