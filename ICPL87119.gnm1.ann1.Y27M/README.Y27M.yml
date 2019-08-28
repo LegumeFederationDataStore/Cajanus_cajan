@@ -52,4 +52,5 @@ changes: Begin each change note with a date string, e.g. 2018-03-23 -->
   - 2018-05-08 Changed gff column 1 IDs from CcLG to cajca.ICPL87119.gnm1.Cc
   - 2018-07-12 2018-07-11 Changed fasta header in all *.fna and *.faa files (perl -pi -e 's/>Aradu/>aradu.V14167.gnm1.ann1/')
   - 2018-09-15 Changed fasta header in all *.fna and *.faa files to include .1 suffixes and amend the above to match the gff3 (e.g. C.cajan had been removed)
+  - 2019-08-28 Tweak GFF for compliance - changing "nan" in 6th field to "."
 
